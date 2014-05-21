@@ -1,0 +1,6 @@
+{
+    "paths": [
+        "/var/log/statsd.log"
+    ],
+    "type": "influxdb"
+}
